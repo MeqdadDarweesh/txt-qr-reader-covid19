@@ -1,7 +1,6 @@
 # QR Code Reader for COVID-19
 Using a robot powered by Fischertechnik TXT controller.
 
-QR Code Reader for COVID-19
 A Python code for Fischertechnik TXT robot with Camera.
 
 The robot will capture an image for QR Code label, and it'll decode it using OpenCV library.
